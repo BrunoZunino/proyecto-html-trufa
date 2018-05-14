@@ -1,19 +1,31 @@
 body{
-  font-size: 20px;
+  font-size: 100%;
+}
+nav{
+  background-color: gray;
 }
 .container-fluid{
   height: 100%;
   width: 100%;
-  background-color:
 }
 .primera{
   height: 100%;
   width: 100%;
 }
 h2{
-  margin:center;
-  background-color: #74DF00;
+  color: white;
+  font-size: 35px;
+  font-weight: bold;
   text-align: center;
-  border-top: 2px;
-  border-color: solid black;
+}
+h3{
+    color: white;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: left;
+}
+p{
+  color: white;
+  font-size: 20px;
+  font-family: 'Rancho', cursive;
 }
