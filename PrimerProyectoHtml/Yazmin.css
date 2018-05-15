@@ -1,0 +1,53 @@
+body {
+
+    background-image: url(fondo5.jpg);
+    /*background-attachment: fixed;/*para que sea estático*/
+    background-position: top right;arriba a la derecha*/
+    background-repeat: no-repeat;/*que no se repita el fondo*/
+
+}
+#navbar{
+
+    background-color: #E4EDDB;
+
+}
+#Portada{
+
+    width: 900px;
+    height: 450px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.Info {
+
+    margin-left: 220px;
+    margin-top: 50px;
+    background-color: WHITE;
+}
+
+.Info2 {
+    
+        margin-top: 30px;
+    background-color: WHITE;
+        
+    }
+
+#Imagen1 {
+
+    width: 524px;
+    height: 251px;
+    margin-top: 50px;
+}
+
+.card {
+
+    margin-top: 50px;
+    margin-left: 120px;
+}
+
+.card2 {
+
+    margin-top: 50px;
+    margin-left: 450px;
+}
