@@ -11,6 +11,11 @@ nav{
 .primera{
   height: 100%;
   width: 100%;
+  text-align: center;
+}
+.segunda{
+  height: 100%;
+  width: 100%;
 }
 h2{
   color: white;
@@ -18,12 +23,7 @@ h2{
   font-weight: bold;
   text-align: center;
 }
-h3{
-    color: white;
-  font-size: 28px;
-  font-weight: bold;
-  text-align: left;
-}
+
 p{
   color: white;
   font-size: 20px;
